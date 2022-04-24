@@ -1,0 +1,23 @@
+name: quick_actions_icons
+description: 'Demo on Android quick actions SVG icons'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  quick_actions: ^0.6.0+7
+
+# Not publishable to pub.dev
+publish_to: none
+
+flutter:
+
+  uses-material-design: true
