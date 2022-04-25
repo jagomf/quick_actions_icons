@@ -46,8 +46,8 @@ class _QuickActionsIconsAppState extends State<QuickActionsIconsApp> {
             '''Long tap on this app\'s icon on your launcher:'''
             '''\nIf you are locally running this app, quick actions icons '''
             '''(which are SVG) will be shown;'''
-            '''\nOn the other hand, if you have downloaded app from Play'''
-            '''Store, you will probably notice that quick actions\' icons'''
+            '''\nOn the other hand, if you have downloaded app from Play '''
+            '''Store, you will probably notice that quick actions\' icons '''
             '''are not being rendered.''',
           ),
         ),
